@@ -73,7 +73,7 @@ int main()
 				case 2:
 					cout << "\nImpresion de valores del vector.";
 					for (int i = 0; i < 5; i++) {
-						cout << v[i];
+						cout << v[i] << endl;
 					}
 					break;
 				case 0:
